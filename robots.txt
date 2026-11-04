@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Disallow admin or sensitive paths if any
+Disallow: /server.js
+
+# Sitemap location
+Sitemap: https://tastehaven.com/sitemap.xml
